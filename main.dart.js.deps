@@ -18,7 +18,9 @@ file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collecti
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/get_it-3.0.3/lib/get_it.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/responsive_builder-0.1.4/lib/responsive_builder.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
@@ -607,5 +609,16 @@ file:///D:/flutter_/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
 file:///D:/flutter_/flutter/packages/flutter/lib/widgets.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/.packages
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/locator.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/main.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/routing/route_names.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/routing/routes.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/services/navigation_service.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/utils/screen_aware_size.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/about.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/apps_view.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_content_desktop.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_content_mobile.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_view.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/navigation_bar.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/widgets/widgets.dart
