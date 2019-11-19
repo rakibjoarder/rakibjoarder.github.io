@@ -22,6 +22,9 @@ file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/font_awe
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/font_awesome_flutter-8.5.0/lib/icon_data.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/get_it-3.0.3/lib/get_it.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/circular_percent_indicator.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/linear_percent_indicator.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/percent_indicator.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/responsive_builder-0.1.4/lib/responsive_builder.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/url_launcher-5.2.5/lib/url_launcher.dart
@@ -619,11 +622,16 @@ file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/main.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/routing/route_names.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/routing/routes.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/services/navigation_service.dart
-file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/utils/screen_aware_size.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/about.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/apps_view.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_content_desktop.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_content_mobile.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_view.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/navigation_bar.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/projects/project_contect_desktop.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/projects/project_content_mobile.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/projects/project_view.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/skills/skills.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/skills/skills_desktop.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/skills/skills_mobile.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/widgets/widgets.dart
