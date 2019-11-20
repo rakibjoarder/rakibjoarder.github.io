@@ -26,6 +26,10 @@ file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/percent_
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/linear_percent_indicator.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/percent_indicator.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/responsive_builder-0.1.4/lib/responsive_builder.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/timeline_list-0.0.5/lib/src/timeline_item.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/timeline_list-0.0.5/lib/src/timeline_painter.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/timeline_list-0.0.5/lib/timeline.dart
+file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/timeline_list-0.0.5/lib/timeline_model.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/url_launcher-5.2.5/lib/url_launcher.dart
 file:///C:/Users/Asus/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/method_channel_url_launcher.dart
@@ -634,4 +638,7 @@ file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/project
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/skills/skills.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/skills/skills_desktop.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/skills/skills_mobile.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/workExperienceStudy/work_study.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/workExperienceStudy/work_study_desktop.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/workExperienceStudy/work_study_mobile.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/widgets/widgets.dart
