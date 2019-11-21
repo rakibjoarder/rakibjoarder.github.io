@@ -628,6 +628,9 @@ file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/routing/route
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/services/navigation_service.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/about.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/apps_view.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/footer/footer_desktop.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/footer/footer_mobile.dart
+file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/footer/footer_view.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_content_desktop.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_content_mobile.dart
 file:///E:/flutter/flutter_portfolio_web/flutter_portfolio_web/lib/views/home/home_view.dart
