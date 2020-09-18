@@ -4810,6 +4810,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 connectivity_macos
 flutter_plugin_android_lifecycle
+image_picker_for_web
 url_launcher_macos
 url_launcher_web
 url_launcher_windows
