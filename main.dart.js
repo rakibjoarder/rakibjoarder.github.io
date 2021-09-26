@@ -16792,7 +16792,7 @@ _.ch=!0
 _.db=_.cy=_.cx=!1},
 a9o:function(){var s=0,r=P.ac(t.z)
 var $async$a9o=P.a7(function(a,b){if(a===1)return P.a9(b,r)
-while(true)switch(s){case 0:C.ag.yg(window,"https://drive.google.com/file/d/1DG9PHqOdcSTxamiiRFysvh-4nipYgkKs/view?usp=sharing","_blank")
+while(true)switch(s){case 0:C.ag.yg(window,"https://drive.google.com/file/d/1T9RRJorJLyOflWBkMs9D7Cod6uXbBbb-/view?usp=sharing","_blank")
 return P.aa(null,r)}})
 return P.ab($async$a9o,r)},
 BD:function BD(a){this.a=a},
@@ -56737,7 +56737,7 @@ if(n)r=13
 else r=o===C.f8?16:18
 if(n)q=a.O(t.w).f.a.a
 else{n=t.w
-q=o===C.f8?a.O(n).f.a.a/1.2:a.O(n).f.a.a/2.1}return M.a6(p,T.b6(H.b([T.ii(L.aR("Rakib Mamun Joarder",p,A.aE(p,p,p,p,p,p,p,p,p,p,p,s,p,C.cy,p,0.9,!0,p,p,p,p,p,p,p),C.aT,p)),T.bq(p,18,p),L.aR("Senior Software Engineer & Flutter Expert",p,A.aE(p,p,p,p,p,p,p,p,p,p,p,r+2,p,C.iE,p,p,!0,p,p,p,p,p,p,p),C.aT,p),T.bq(p,15,p),L.aR("Hi, I am Rakib Mamun Joarder, Computer Science & Engineering graduate. I am a software engineer with 4 years of experience. Specialist in Mobile Application & Web Application development. I have experience in Flutter, Dart, Android, PHP(CodeIgniter), Nodejs. I try my best to satisfy my client & deliver the best quality app at the specified time. Please feel free to contact me with any questions, I'll be happy to further explain to you about my service.",p,A.aE(p,p,p,p,p,p,p,p,p,p,p,r,p,p,p,1.7,!0,p,p,p,p,p,p,p),C.aT,p)],t.t),C.k,C.as,C.l),p,p,p,p,p,new V.a2(r,r,r,r),q)},
+q=o===C.f8?a.O(n).f.a.a/1.2:a.O(n).f.a.a/2.1}return M.a6(p,T.b6(H.b([T.ii(L.aR("Rakib Mamun Joarder",p,A.aE(p,p,p,p,p,p,p,p,p,p,p,s,p,C.cy,p,0.9,!0,p,p,p,p,p,p,p),C.aT,p)),T.bq(p,18,p),L.aR("Software Engineer & Flutter Expert",p,A.aE(p,p,p,p,p,p,p,p,p,p,p,r+2,p,C.iE,p,p,!0,p,p,p,p,p,p,p),C.aT,p),T.bq(p,15,p),L.aR("Hi, I am Rakib Mamun Joarder, Computer Science & Engineering graduate. I am a software engineer with 4 years of experience. Specialist in Mobile Application & Web Application development. I have experience in Flutter, Dart, Android, PHP(CodeIgniter), Nodejs. I try my best to satisfy my client & deliver the best quality app at the specified time. Please feel free to contact me with any questions, I'll be happy to further explain to you about my service.",p,A.aE(p,p,p,p,p,p,p,p,p,p,p,r,p,p,p,1.7,!0,p,p,p,p,p,p,p),C.aT,p)],t.t),C.k,C.as,C.l),p,p,p,p,p,new V.a2(r,r,r,r),q)},
 $C:"$2",
 $R:2,
 $S:49}
@@ -56901,32 +56901,32 @@ $S:355}
 B.w3.prototype={
 E:function(a,b){return K.uR(new S.G9(null),new N.Ga(null),null)}}
 S.G9.prototype={
-E:function(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="DroidApp BD",i=C.U.h(0,200)
-i.toString
-i=i.a
-i=P.aQ(C.d.av(229.5),i>>>16&255,i>>>8&255,i&255)
+E:function(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="Software Engineer (Flutter) ",i="DroidApp BD",h=C.U.h(0,200)
+h.toString
+h=h.a
+h=P.aQ(C.d.av(229.5),h>>>16&255,h>>>8&255,h&255)
 s=T.bq(k,28,k)
 r=L.aR("WORK EXPERIENCE",k,A.aE(k,k,k,k,k,k,k,k,k,k,k,36,k,C.y,k,k,!0,k,k,k,k,k,k,k),k,k)
 q=T.bq(k,20,k)
 p=S.a6j(450,b)
 o=t.gK
 n=t.t
-p=T.fn(T.b6(H.b([s,r,q,M.a6(k,T.jD(L.a_6(H.b([l.dr("Senior Software Engineer (Flutter) ","Dnet","06/2020 - Present"),l.dr("Software Engineer (Flutter) ","Nagad","01/2020 - 08/2020"),l.dr("Flutter Developer",j,"08/2018 - Present"),l.dr("Android Developer",j,"03/2017 - 07/2018"),l.dr("Software Engineer","Cloudware Systems","08/2017 - 11/2018")],o),new L.lA(k),C.bL),k,k),k,k,k,p,k,new V.a2(50,0,0,0),k)],n),C.k,C.t,C.l),1)
+p=T.fn(T.b6(H.b([s,r,q,M.a6(k,T.jD(L.a_6(H.b([l.dr(j,"Dnet","06/2020 - Present"),l.dr(j,"Nagad","01/2020 - 08/2020"),l.dr("Flutter Developer",i,"08/2018 - Present"),l.dr("Android Developer",i,"03/2017 - 07/2018"),l.dr("Software Engineer","Cloudware Systems","08/2017 - 11/2018")],o),new L.lA(k),C.bL),k,k),k,k,k,p,k,new V.a2(50,0,0,0),k)],n),C.k,C.t,C.l),1)
 q=T.bq(k,28,k)
 r=L.aR("EDUCATION",k,A.aE(k,k,k,k,k,k,k,k,k,k,k,36,k,C.y,k,k,!0,k,k,k,k,k,k,k),k,k)
 s=T.bq(k,20,k)
 m=S.a6j(400,b)
-return M.a6(k,T.ct(H.b([p,T.fn(T.b6(H.b([q,r,s,M.a6(k,L.a_6(H.b([l.dr("B.Sc. in Cse",u.n,"2013 - 2017"),l.dr("HSC",u.f,"2012"),l.dr("SSC","Khulna Zilla School, Khulna, Khulna","2010")],o),new L.lA(k),C.bL),k,k,k,m,k,new V.a2(20,0,0,0),k)],n),C.k,C.t,C.l),1)],n),C.k,C.t,C.l),i,k,k,k,k,new V.a2(120,0,120,0),k)},
+return M.a6(k,T.ct(H.b([p,T.fn(T.b6(H.b([q,r,s,M.a6(k,L.a_6(H.b([l.dr("B.Sc. in Cse",u.n,"2013 - 2017"),l.dr("HSC",u.f,"2012"),l.dr("SSC","Khulna Zilla School, Khulna, Khulna","2010")],o),new L.lA(k),C.bL),k,k,k,m,k,new V.a2(20,0,0,0),k)],n),C.k,C.t,C.l),1)],n),C.k,C.t,C.l),h,k,k,k,k,new V.a2(120,0,120,0),k)},
 dr:function(a,b,c){var s=null,r=L.aR(a,s,A.aE(s,s,s,s,s,s,s,s,s,s,s,18,s,C.y,s,s,!0,s,s,s,s,s,s,s),s,s),q=t.t
 q=T.b6(H.b([Q.a7V(new V.a2(0,10,0,10),T.b6(H.b([T.bq(s,2,s),L.aR(b,s,A.aE(s,s,C.v,s,s,s,s,s,s,s,s,16,s,C.F,s,s,!0,s,s,s,s,s,s,s),s,s),T.bq(s,2,s),L.aR(c,s,A.aE(s,s,C.v,s,s,s,s,s,s,s,s,16,s,C.F,s,s,!0,s,s,s,s,s,s,s),s,s)],q),C.bv,C.t,C.l),r)],q),C.k,C.t,C.l)
 r=C.au.h(0,700)
 r.toString
 return new Q.mf(r,q,C.h9,!0,!0)}}
 N.Ga.prototype={
-E:function(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="DroidApp BD",h=C.U.h(0,200)
-h.toString
-h=h.a
-h=P.aQ(C.d.av(229.5),h>>>16&255,h>>>8&255,h&255)
+E:function(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="Software Engineer (Flutter) ",h="DroidApp BD",g=C.U.h(0,200)
+g.toString
+g=g.a
+g=P.aQ(C.d.av(229.5),g>>>16&255,g>>>8&255,g&255)
 s=t.w
 r=b.O(s).f
 q=T.bq(j,20,j)
@@ -56935,11 +56935,11 @@ o=S.a6j(480,b)
 n=b.O(s).f
 m=t.gK
 l=t.t
-n=T.b6(H.b([p,M.a6(j,T.jD(L.a_6(H.b([k.dr("Senior Software Engineer (Flutter) ","Dnet","06/2020 - Present"),k.dr("Software Engineer (Flutter) ","Nagad","01/2020 - 08/2020"),k.dr("Flutter Developer",i,"08/2018 - Present"),k.dr("Android Developer",i,"03/2017 - 07/2018"),k.dr("Software Engineer","Cloudware Systems","08/2017 - 11/2018")],m),new L.lA(j),C.bL),j,j),j,j,j,o,j,j,n.a.a-80)],l),C.k,C.t,C.l)
+n=T.b6(H.b([p,M.a6(j,T.jD(L.a_6(H.b([k.dr(i,"Dnet","06/2020 - Present"),k.dr(i,"Nagad","01/2020 - 08/2020"),k.dr("Flutter Developer",h,"08/2018 - Present"),k.dr("Android Developer",h,"03/2017 - 07/2018"),k.dr("Software Engineer","Cloudware Systems","08/2017 - 11/2018")],m),new L.lA(j),C.bL),j,j),j,j,j,o,j,j,n.a.a-80)],l),C.k,C.t,C.l)
 o=L.aR("EDUCATION",j,A.aE(j,j,j,j,j,j,j,j,j,j,j,22,j,C.y,j,j,!0,j,j,j,j,j,j,j),j,j)
 p=S.a6j(370,b)
 s=b.O(s).f
-return M.a6(j,T.b6(H.b([q,n,T.b6(H.b([o,M.a6(j,L.a_6(H.b([k.dr("B.Sc. in Cse",u.n,"2013 - 2017"),k.dr("HSC",u.f,"2012"),k.dr("SSC","Khulna Zilla School, Khulna, Khulna","2010")],m),new L.lA(j),C.bL),j,j,j,p,j,j,s.a.a-80)],l),C.k,C.t,C.l)],l),C.k,C.t,C.l),h,j,j,j,j,new V.a2(10,20,10,20),r.a.a)},
+return M.a6(j,T.b6(H.b([q,n,T.b6(H.b([o,M.a6(j,L.a_6(H.b([k.dr("B.Sc. in Cse",u.n,"2013 - 2017"),k.dr("HSC",u.f,"2012"),k.dr("SSC","Khulna Zilla School, Khulna, Khulna","2010")],m),new L.lA(j),C.bL),j,j,j,p,j,j,s.a.a-80)],l),C.k,C.t,C.l)],l),C.k,C.t,C.l),g,j,j,j,j,new V.a2(10,20,10,20),r.a.a)},
 dr:function(a,b,c){var s=null,r=L.aR(a,s,A.aE(s,s,s,s,s,s,s,s,s,s,s,15,s,C.y,s,s,!0,s,s,s,s,s,s,s),s,s),q=t.t
 q=T.b6(H.b([Q.a7V(new V.a2(0,10,0,10),T.b6(H.b([T.bq(s,2,s),L.aR(b,s,A.aE(s,s,C.v,s,s,s,s,s,s,s,s,13,s,C.F,s,s,!0,s,s,s,s,s,s,s),s,s),T.bq(s,2,s),L.aR(c,s,A.aE(s,s,C.v,s,s,s,s,s,s,s,s,13,s,C.F,s,s,!0,s,s,s,s,s,s,s),s,s)],q),C.bv,C.t,C.l),r)],q),C.k,C.t,C.l)
 r=C.au.h(0,700)
