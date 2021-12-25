@@ -57786,14 +57786,14 @@ h=P.aW(C.d.aJ(229.5),h>>>16&255,h>>>8&255,h&255)
 s=T.bv(k,28,k)
 r=L.aX("WORK EXPERIENCE",k,A.aK(k,k,k,k,k,k,k,k,k,k,k,36,k,C.B,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 q=T.bv(k,20,k)
-p=S.a6H(550,b)
+p=S.a6H(420,b)
 o=t.gK
 n=t.t
 p=T.fo(T.bd(H.b([s,r,q,M.ab(k,T.jE(L.a_P(H.b([l.d7("UI/UX Software Developer ","Liquid Analytics","11/2021 - Present"),l.d7(j,"Dnet","06/2021 - 11/2021"),l.d7(j,"Swap","01/2020 - 08/2020"),l.d7("Freelance Flutter Developer",i,"08/2018 - Present"),l.d7("Freelance Android Developer",i,"03/2017 - 07/2018"),l.d7("Software Engineer","Cloudware Systems","08/2017 - 11/2018")],o),new L.lH(k),C.bR),k,k),k,k,k,p,k,new V.a3(50,0,0,0),k)],n),C.l,C.u,C.m),1)
 q=T.bv(k,28,k)
 r=L.aX("EDUCATION",k,A.aK(k,k,k,k,k,k,k,k,k,k,k,36,k,C.B,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 s=T.bv(k,20,k)
-m=S.a6H(400,b)
+m=S.a6H(420,b)
 return M.ab(k,T.cq(H.b([p,T.fo(T.bd(H.b([q,r,s,M.ab(k,L.a_P(H.b([l.d7("B.Sc. in Cse",u.n,"2013 - 2017"),l.d7("HSC",u.f,"2012"),l.d7("SSC","Khulna Zilla School, Khulna, Khulna","2010")],o),new L.lH(k),C.bR),k,k,k,m,k,new V.a3(20,0,0,0),k)],n),C.l,C.u,C.m),1)],n),C.l,C.u,C.m),h,k,k,k,k,new V.a3(120,0,120,0),k)},
 d7(a,b,c){var s=null,r=L.aX(a,s,A.aK(s,s,s,s,s,s,s,s,s,s,s,18,s,C.B,s,s,!0,s,s,s,s,s,s,s,s),s,s),q=t.t
 q=T.bd(H.b([Q.a8j(new V.a3(0,10,0,10),T.bd(H.b([T.bv(s,2,s),L.aX(b,s,A.aK(s,s,C.A,s,s,s,s,s,s,s,s,16,s,C.G,s,s,!0,s,s,s,s,s,s,s,s),s,s),T.bv(s,2,s),L.aX(c,s,A.aK(s,s,C.A,s,s,s,s,s,s,s,s,16,s,C.G,s,s,!0,s,s,s,s,s,s,s,s),s,s)],q),C.bC,C.u,C.m),r)],q),C.l,C.u,C.m)
@@ -57809,13 +57809,13 @@ s=t.w
 r=b.N(s).f
 q=T.bv(j,20,j)
 p=L.aX("WORK EXPERIENCE",j,A.aK(j,j,j,j,j,j,j,j,j,j,j,22,j,C.B,j,j,!0,j,j,j,j,j,j,j,j),j,j)
-o=S.a6H(480,b)
+o=S.a6H(420,b)
 n=b.N(s).f
 m=t.gK
 l=t.t
 n=T.bd(H.b([p,M.ab(j,T.jE(L.a_P(H.b([k.d7("UI/UX Software Developer ","Liquid Analytics","11/2021 - Present"),k.d7(i,"Dnet","06/2021 - 11/2021"),k.d7(i,"Swap","01/2020 - 08/2020"),k.d7("Freelance Flutter Developer",h,"08/2018 - Present"),k.d7("Freelance Android Developer",h,"03/2017 - 07/2018"),k.d7("Software Engineer","Cloudware Systems","08/2017 - 11/2018")],m),new L.lH(j),C.bR),j,j),j,j,j,o,j,j,n.a.a-80)],l),C.l,C.u,C.m)
 o=L.aX("EDUCATION",j,A.aK(j,j,j,j,j,j,j,j,j,j,j,22,j,C.B,j,j,!0,j,j,j,j,j,j,j,j),j,j)
-p=S.a6H(370,b)
+p=S.a6H(220,b)
 s=b.N(s).f
 return M.ab(j,T.bd(H.b([q,n,T.bd(H.b([o,M.ab(j,L.a_P(H.b([k.d7("B.Sc. in Cse",u.n,"2013 - 2017"),k.d7("HSC",u.f,"2012"),k.d7("SSC","Khulna Zilla School, Khulna, Khulna","2010")],m),new L.lH(j),C.bR),j,j,j,p,j,j,s.a.a-80)],l),C.l,C.u,C.m)],l),C.l,C.u,C.m),g,j,j,j,j,new V.a3(10,20,10,20),r.a.a)},
 d7(a,b,c){var s=null,r=L.aX(a,s,A.aK(s,s,s,s,s,s,s,s,s,s,s,15,s,C.B,s,s,!0,s,s,s,s,s,s,s,s),s,s),q=t.t
